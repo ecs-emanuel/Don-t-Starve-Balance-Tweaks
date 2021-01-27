@@ -180,7 +180,8 @@
 	- Increased Quacken's total health from 1000 to 4000.
 	- Increased Quacken's health stages from 4 to 8.
 	- Decreased the distance between Quacken's tentacles from 35 ro 26.
-	- Quacken Chest loot has been changed from [1x Thulecite Crown / 1x Thulecite Armor or 1x Obsidian Armor / etc.] ...
+	- Quacken Chest loot has been changed ...
+	... from [1x Thulecite Crown / 1x Thulecite Armor or 1x Obsidian Armor / etc.] ...
 	... to [1x Thulecite Crown or Thulecite Armor / 1-3x Bioluminescence / etc.]
 			
 	------------------------------------------------
