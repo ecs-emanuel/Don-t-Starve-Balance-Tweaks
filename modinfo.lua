@@ -1,7 +1,7 @@
 name = "DS Balance Tweaks"
 description = "..."
 author = "Deprecious"
-version = "0.701"
+version = "0.702"
 
 forumthread = ""
 
