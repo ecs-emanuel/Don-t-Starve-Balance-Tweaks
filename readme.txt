@@ -96,7 +96,8 @@
 	
 	Changes : 
 	
-	- BatBat recipe cost has been decreased from [2x living log / 5x bat wing / 1x purple gem] to [2x living log / 3x batwing / 1x purple gem] 
+	- BatBat recipe cost has been decreased from ...
+	... [2x living log / 5x bat wing / 1x purple gem] to [2x living log / 3x batwing / 1x purple gem] 
 	
 	------------------------------------------------
 	-- DARKSWORD TWEAKS ----------------------------
@@ -104,7 +105,8 @@
 	
 	Changes : 
 	
-	- Darksword recipe cost has been increased from [1x living log / 5x nightmare fuel] to [2x living log / 6x nightmare fuel] 
+	- Darksword recipe cost has been increased from ...
+	... [1x living log / 5x nightmare fuel] to [2x living log / 6x nightmare fuel] 
 	
 	------------------------------------------------
 	-- CUTLASS TWEAKS ------------------------------
@@ -112,7 +114,8 @@
 	
 	Changes : 
 	
-	- Supreme Cutlass recipe has been changed from [1x swordfish / 2x goldnugget / 1x twigs] to [1x swordfish / 4x boneshard / 8x dubloon]
+	- Supreme Cutlass recipe has been changed from ...
+	... [1x swordfish / 2x goldnugget / 1x twigs] to [1x swordfish / 4x boneshard / 8x dubloon]
 	- Supreme Cutlass base damage has been decreased from 68 to 51.
 	- Supreme Cutlass total damage to Sealnado has been decreased from 102 to 84.
 	
@@ -122,7 +125,8 @@
 	
 	Changes	: 
 	
-	- The amount of swordfishes that can spawn from one spawnpoint has been decreased (from 8 swordfish per day to 1 swordfish every 3 days).
+	- The amount of swordfishes that can spawn from one spawnpoint has been decreased ... 
+	... (from 8 swordfish per day to 1 swordfish every 3 days).
 	
 	------------------------------------------------
 	-- CAFFEINE TWEAKS -----------------------------
@@ -151,7 +155,8 @@
 	
 	Changes : 
 		
-	- Sea yard boat repair rate increased from 0.5% of maximum durability per second to 1% of maximum durability per second.
+	- Sea yard boat repair rate increased from ...
+	... 0.5% of maximum durability per second to 1% of maximum durability per second.
 	- Sea yard fuel consumption rate has been doubled.
 			
 	------------------------------------------------
@@ -184,7 +189,8 @@
 	
 	Changes	: 
 	
-	- Gear drop rate has been decreased from [0.99x chance / 0.66x chance / 0.33x chance] to [0.44x chance / 0.33x chance / 0.22x chance].
+	- Gear drop rate has been decreased from ...
+	... [0.99x chance / 0.66x chance / 0.33x chance] to [0.44x chance / 0.33x chance / 0.22x chance].
 	
 ----------------------------------------------------
 -- COMPATIBILITY -----------------------------------
@@ -201,9 +207,11 @@
 	-- MOD COMPATIBILITY ---------------------------
 	------------------------------------------------
 	
-	- This mod should be fully compatible with any other mod that does not alter/modify files modified by this release, but may be compatible and otherwise.
-	- For ensuring a better compatibility with future official game updates, each tweak included in this release provides the posibility to be disabled ...
-	... in case any particular tweak is causing you any incovenience, feel free to disable it from the mod configuration panel.
+	- This mod should be fully compatible with any other mod that does not alter/modify files modified by this release ...
+	... but may be compatible and otherwise.
+	- For ensuring a better compatibility with future official game updates, each tweak included in this release ...
+	... provides the posibility to be disabled, so in case any particular tweak is causing you any incovenience ...
+	... feel free to disable it from the mod configuration panel.
 	
 ----------------------------------------------------
 -- CREDITS -----------------------------------------
