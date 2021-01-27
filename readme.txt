@@ -226,4 +226,3 @@
 	------------------------------------------------
 	
 	- For his method of removing event callbacks.
-	
